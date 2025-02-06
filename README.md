@@ -14,7 +14,7 @@ This project mainly focuses on handling imbalanced datasets and detecting credit
 
     f) GaussianNB 
 
-    g) hyperopt
+    g) Hyperopt
 
  `
  ## Steps
