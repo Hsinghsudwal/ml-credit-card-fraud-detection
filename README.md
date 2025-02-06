@@ -1,4 +1,4 @@
-# `Fraud Detection - Credit Card Fraud Detection`
+# `Credit Card Fraud Detection`
 
 This project mainly focuses on handling imbalanced datasets and detecting credit-card frauds using Following Machine Learning Algorithms:
 
