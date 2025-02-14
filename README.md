@@ -26,4 +26,6 @@ This project mainly focuses on handling imbalanced datasets and detecting credit
 
     4) Handling Imbalanced Datasets. 
 
-    5) Conclusions.
+    5) Modeling
+    
+    6) Conclusions.
